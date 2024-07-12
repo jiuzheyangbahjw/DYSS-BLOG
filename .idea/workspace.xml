@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="424e40a4-98f3-4516-97c7-021c3469f01f" name="Changes" comment="update blog4">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
-    </list>
+    <list default="true" id="424e40a4-98f3-4516-97c7-021c3469f01f" name="Changes" comment="update blog4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +70,7 @@
       <workItem from="1720769849764" duration="5398000" />
       <workItem from="1720775350185" duration="47000" />
       <workItem from="1720776732378" duration="2710000" />
+      <workItem from="1720798013048" duration="241000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1720770004917</created>
@@ -171,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1720780277416</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="update blog4">
+      <created>1720798071655</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1720798071655</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
