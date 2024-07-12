@@ -29,9 +29,6 @@ jobs:
       - name: Build
         run: npm run docs:build
 
-      - name: Install sshpass
-        run: sudo apt-get install -y sshpass
-
       - name: Deploy to Nginx Server
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
