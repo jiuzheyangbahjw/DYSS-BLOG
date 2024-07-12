@@ -40,7 +40,7 @@ highlights:
       - title: 业务监控系统组件
         icon: table-columns
         details: 24年4月，为了更好监控项目中的业务流转和排查问题，开发了将业务可视化的组件，对全链路流程进行实时监控，防止问题的排查和积压的查找。
-        link: https://...，
+        link: https://...。
 
 copyright: false
 footer: |-
