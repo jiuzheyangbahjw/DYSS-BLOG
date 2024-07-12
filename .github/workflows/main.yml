@@ -20,14 +20,11 @@ jobs:
         with:
           node-version: '18.16.0'
 
-      - name: Verify VuePress Installation
-        run: npm list vuepress
-
-      - name: Check VuePress Permissions
-        run: ls -l node_modules/.bin/vuepress
+      - name: Set VuePress Executable Permission
+        run: chmod +x node_modules/.bin/vuepress
 
       - name: Build
-        run: npx vuepress build src
+        run: npm run docs:build
 
       - name: Deploy to Nginx Server
         env:
