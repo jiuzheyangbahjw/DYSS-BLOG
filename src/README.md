@@ -8,7 +8,7 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: RESUME
-tagline: 读万卷书 行万里路!
+tagline: 💐 读万卷书 行万里路!
 actions:
   - text: introduction 👣
     link: https://..
