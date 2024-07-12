@@ -22,7 +22,7 @@ highlights:
     bgImage: /assets/bg/6-light.svg
     bgImageDark: /assets/bg/6-dark.svg
     features:
-      - title: 瑞吉外卖 - 外卖平台
+      - title: 旋风外卖 - 外卖平台
         icon: comment-dots
         details: 23年3月，以MVC架构实现外卖系统，实现管理端和客户端的分离。
         link: https://...
