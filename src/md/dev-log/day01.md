@@ -33,7 +33,7 @@ category:
 
    > 注：因为并不了解 DDD 架构，所以每个模块目前只有模糊的概念，具体的东西在后续代码编写中进行体会
 
-3. 阅读 [210801_xfg_initProject](https://gitcode.net/KnowledgePlanet/Lottery/-/tree/210801_xfg_initProject) 分支上的 POM 文件
+3. 阅读 
 
    通过对 POM 文件的阅读，更加清楚的了解这个项目所使用的技术，并且通过阅读发现项目没有添加 Lombok 来简化开发，具体项目开发是否使用这个插件我不知道，但是我想用，因为我**懒**，所以就给加上了😄
 
