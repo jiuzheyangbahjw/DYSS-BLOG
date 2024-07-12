@@ -22,25 +22,25 @@ highlights:
     bgImage: /assets/bg/6-light.svg
     bgImageDark: /assets/bg/6-dark.svg
     features:
-      - title: 公众号 - 抽奖系统
+      - title: 瑞吉外卖 - 外卖平台
         icon: comment-dots
-        details: 23年1月，以DDD领域驱动设计架构，开发完成分布式抽奖系统。运用了全面的分布式技术栈。
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
+        details: 23年3月，以MVC架构实现外卖系统，实现管理端和客户端的分离。
+        link: https://...
 
-      - title: 手写 MyBatis
+      - title: 数据掘金 - 抽奖平台
         icon: box-archive
-        details: 23年4月，深度学习《手写MyBatis：渐进式源码实践》一书，完整实现了一个 MyBatis ORM 框架。
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/container.html
+        details: 23年10月，以DDD领域驱动设计架构，开发了一个平台大营销抽奖平台。运用了全面的分布式技术栈。
+        link: https://...
 
-      - title: OpenAI 应用服务
+      - title: 动态线程池技术
         icon: table-columns
-        details: 23年8月，学习 OpenAi 技术，学习 OpenAi SDK 开发，完成应用场景的对接使用「涵盖支付对接」。
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/tabs.html
+        details: 24年1月，以spring boot starter开发了动态线程池组件，满足实际开发中的需求
+        link: https://...
         
-      - title: SpringBoot Stater
+      - title: 业务监控系统组件
         icon: table-columns
-        details: 23年10月，通过对业务项目开发中的学习，对同类共性功能的重复开发，凝练成通用的服务治理组件。
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/tabs.html
+        details: 24年4月，为了更好监控项目中的业务流转和排查问题，开发了将业务可视化的组件
+        link: https://...
 
 copyright: false
 footer: |-
