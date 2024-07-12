@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="424e40a4-98f3-4516-97c7-021c3469f01f" name="Changes" comment="update blog3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="424e40a4-98f3-4516-97c7-021c3469f01f" name="Changes" comment="update blog4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +69,7 @@
       <workItem from="1720766331272" duration="2732000" />
       <workItem from="1720769849764" duration="5398000" />
       <workItem from="1720775350185" duration="47000" />
-      <workItem from="1720776732378" duration="1879000" />
+      <workItem from="1720776732378" duration="2189000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1720770004917</created>
@@ -136,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1720777605709</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update blog4">
+      <created>1720779782121</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1720779782121</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +164,7 @@
     <MESSAGE value="update blog" />
     <MESSAGE value="update blog2" />
     <MESSAGE value="update blog3" />
-    <option name="LAST_COMMIT_MESSAGE" value="update blog3" />
+    <MESSAGE value="update blog4" />
+    <option name="LAST_COMMIT_MESSAGE" value="update blog4" />
   </component>
 </project>
