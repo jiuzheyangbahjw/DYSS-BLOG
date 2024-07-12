@@ -11,7 +11,7 @@ heroText: RESUME
 tagline: 读万卷书 行万里路!
 actions:
   - text: introduction 👣
-    link: https://...
+    link: https://..
     type: primary
 
   - text: Project 💐
