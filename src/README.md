@@ -7,15 +7,15 @@ bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 我的博客简历
-tagline: 您好，我是东阳书生，一枚热爱技术的程序员，酷爱读书的打工人，读万卷书，行万里路！
+heroText: RESUME
+tagline: 读万卷书 行万里路!
 actions:
-  - text: 查看简历 👣
-    link: ./md/
+  - text: introduction 👣
+    link: https://...
     type: primary
 
-  - text: 我的项目 💐
-    link: https://openai.gaga.plus/
+  - text: Project 💐
+    link: https://...
 
 highlights:
   - header: 
@@ -34,24 +34,24 @@ highlights:
 
       - title: 动态线程池技术
         icon: table-columns
-        details: 24年1月，以spring boot starter开发了动态线程池组件，满足实际开发中的需求
+        details: 24年1月，以spring boot starter开发了动态线程池组件，解决了实际开发中线程池的配置问题。
         link: https://...
         
       - title: 业务监控系统组件
         icon: table-columns
-        details: 24年4月，为了更好监控项目中的业务流转和排查问题，开发了将业务可视化的组件
+        details: 24年4月，为了更好监控项目中的业务流转和排查问题，开发了将业务可视化的组件，对全链路流程进行实时监控，防止问题的排查和积压的查找。
         link: https://...
 
 copyright: false
 footer: |-
-  <div class="content"><a href="http://beian.miit.gov.cn" target="_blank">京ICP备1903****号</a> | MIT 协议, 版权所有 © 2023 你的名字，All rights reserved.</div>
+  <div class="content"><a href="http://beian.miit.gov.cn" target="_blank">京ICP备1903****号</a> | MIT 协议, 版权所有 © 2023 DYSS，All rights reserved.</div>
 ---
 
 <br/>
 
 ::: tip
 
-个人在大学/实习期间，参与过多次的技术类赛事项目，熟练使用各类技术框架，积累了丰富的开发经验。同时兼具着对技术的喜爱，长期对技术源码进行钻研学习吸收其中的设计精髓。尤其对 MyBatis 源码学习后，开发了一款监控 SQL 慢查询以及优化建议插件。并将此插件发布到了 IDEA Plugin 插件市场，半年获得了3000次下载量，获得了非常好的认可，个人也得到了非常多的成长。地址：http://github.com/xxxx/xxxx
+个人在大学/实习期间，参与过多次的技术类赛事项目，熟练使用各类技术框架，积累了丰富的开发经验。同时兼具着对技术的喜爱，长期对技术源码进行钻研学习。自主开发了两个组件，分别为动态线程池组件和业务监控组件，能满足实际业务中的需求，事实上我们正缺乏的就是这类对市场需求的把握能力
 
 :::
 
