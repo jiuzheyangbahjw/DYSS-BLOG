@@ -20,6 +20,9 @@ jobs:
         with:
           node-version: '18.16.0'
 
+      - name: Install dependencies
+        run: npm install
+
       - name: Set VuePress Executable Permission
         run: chmod +x node_modules/.bin/vuepress
 
