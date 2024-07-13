@@ -55,7 +55,7 @@
 </blockquote>
 </li>
 <li>
-<p>阅读 <a href="https://gitcode.net/KnowledgePlanet/Lottery/-/tree/210801_xfg_initProject" target="_blank" rel="noopener noreferrer">210801_xfg_initProject<ExternalLinkIcon/></a> 分支上的 POM 文件</p>
+<p>阅读</p>
 <p>通过对 POM 文件的阅读，更加清楚的了解这个项目所使用的技术，并且通过阅读发现项目没有添加 Lombok 来简化开发，具体项目开发是否使用这个插件我不知道，但是我想用，因为我<strong>懒</strong>，所以就给加上了😄</p>
 </li>
 <li>

@@ -15,7 +15,6 @@ category:
 
 1. 先看视频了解用到了啥
 
-2. 看小傅哥策略模式的[文章](https://mp.weixin.qq.com/s/zOFLtSFVrYEyTuihzwgKYw)
 
 3. 看代码结构
 

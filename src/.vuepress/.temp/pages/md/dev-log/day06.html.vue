@@ -8,9 +8,6 @@
 <p>先看视频了解用到了啥</p>
 </li>
 <li>
-<p>看小傅哥策略模式的<a href="https://mp.weixin.qq.com/s/zOFLtSFVrYEyTuihzwgKYw" target="_blank" rel="noopener noreferrer">文章<ExternalLinkIcon/></a></p>
-</li>
-<li>
 <p>看代码结构</p>
 <ol>
 <li>定义一个接口，用来生成 id</li>

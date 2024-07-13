@@ -5,8 +5,8 @@
 <li>邮箱</li>
 <li>毕业时间</li>
 <li>工作时间</li>
-<li>Github：https://github.com/fuzhengwei</li>
-<li>开源项目：<a href="https://bugstack.cn/md/product/idea-plugin/vo2dto.html" target="_blank" rel="noopener noreferrer">vo2dto<ExternalLinkIcon/></a> - IDEA Plugin 自动转换对象插件，5.4k 下载使用</li>
+<li>Github：</li>
+<li>开源项目：</li>
 </ul>
 <h2 id="毕业院校" tabindex="-1"><a class="header-anchor" href="#毕业院校" aria-hidden="true">#</a> 毕业院校</h2>
 <ul>
@@ -57,37 +57,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="_2-手写-mybatis" tabindex="-1"><a class="header-anchor" href="#_2-手写-mybatis" aria-hidden="true">#</a> 2. 手写 MyBatis</h3>
-<ul>
-<li>项目架构：Object Relational Mapping</li>
-<li>项目描述：MyBatis 是 Java 应用编程开发中，非常常用的技术框架。需要较深入的学习和使用，具备 MyBatis 插件开发能力，解决日常场景问题。才能更好更高效的工作。为此，深度学习了《手写MyBatis：渐进式源码实践》一书，完整实现了一个 MyBatis ORM 框架。技术积累颇深，提高了设计思维和编码能力。</li>
-<li>个人收获：
-<ul>
-<li>首先学习到为什么日常使用 MyBatis 时，可以仅提供 IDao 接口，就可以关联对应配置的SQL语句，完成数据库操作。这是因为做了代理与映射，封装调用逻辑到 SqlSession 会话功能实现中。</li>
-<li>掌握了数10种设计模式的运用，其中感触最大的是 MyBatis 如何管理多边服务的设计。如创建会话模型，统一调度执行器使用和数据的封装，并把这些复杂的操作，通过 SqlSessionFactory 工厂统一对外提供 SqlSession 服务。</li>
-<li>彻底了解并掌握了 MyBatis Plugin 设计模型，这个技术可以让我基于 MyBatis 做出日志监控、库表路由、字段加解密等操作。为以后编程工作，提供更多的解决方案。</li>
-<li>除此之外，还有一级缓存、二级缓存的装饰器模式使用，MyBatis 开发后与 Spring、SpringBoot 整合的实现，让我对 MyBatis 的全体系开发流程和对应的技术整合，已经非常清晰，便于以后应用和从根上快速排查解决问题，并给出合理的技术方案。</li>
-</ul>
-</li>
-</ul>
-<h3 id="_3-openai-应用服务-辅助工作提效工具开发" tabindex="-1"><a class="header-anchor" href="#_3-openai-应用服务-辅助工作提效工具开发" aria-hidden="true">#</a> 3. OpenAI 应用服务 - 辅助工作提效工具开发</h3>
-<ul>
-<li>项目架构：微服务架构设计，OpenAI-SDK 多模型组件【ChatGLM、ChatGPT】、DDD 应用服务API封装、WEB REACT 前端界面【按需编写】</li>
-<li>核心技术：SpringBoot、MyBatis、Redis/Guava、OKHttp3、OpenAI 大模型【可对接ChatGLM、腾讯混元等】、React、TypeScript</li>
-<li>项目描述：此项目以应用OpenAI技术，对接多种大模型提供生成式服务，为XXX场景提效。项目的架构设计实现以微服务进行拆分，涵盖；OpenAI-SDK、OpenAI-API、公众号鉴权、企业支付【暂时申请中，如果你对接了可以写】等。并以模块化设计，积木式构建应用，让不同的场景诉求都可以配置化对接。</li>
-<li>核心职责：
-<ul>
-<li>首先这是我们xxx公司/实践/实训的第一个OpenAI项目，后续势必会有更多的场景以不同的方式接入。包括 SDK 独立接入、API 接口接入、MQ 消息接入，以及使用提供好的服务类接入。所以在这部分设计的时候，我采用了微服务的架构设计，按照职责边界进行拆分设计。</li>
-<li>采用 DDD 架构 API，以及便于不同领域模块的独立设计，一个领域就是一个功能域。在功能域中提供模型、仓储、事件、服务。这样可以更好扩展。</li>
-<li>鉴于生成式服务的文本生成可能会有不可靠信息，所以对这部分内容添加了敏感词的过滤。并可根据不同场景选择不同范围的敏感词处理。</li>
-<li>OpenAI 大模型有多种，这部分在架构上设计独立的 SDK，在实现上采用了 Session 会话模型进行处理，以及通过工厂处理服务。在细节对上，采用了 OKHttp3 框架完成模型对接，这样的方式更好扩展，代码也更易于维护。</li>
-<li>在整套工程的设计实现中，采用了较多的分治、抽象的思想和设计模式和设计原则知识的运用，来解决各类场景问题。</li>
-<li>对接微信扫码支付，完成从商品库、下单支付、异步发货、掉单补偿等核心流程实现。让用户可以在线购买对话额度。</li>
-<li>注意：你还可以根据项目中提到的各类技术和章节，来编写你的职责。</li>
-</ul>
-</li>
-</ul>
-<h3 id="_4-服务治理-springboot-中间件" tabindex="-1"><a class="header-anchor" href="#_4-服务治理-springboot-中间件" aria-hidden="true">#</a> 4. 服务治理 SpringBoot 中间件</h3>
+<h3 id="_2-服务治理-springboot-中间件" tabindex="-1"><a class="header-anchor" href="#_2-服务治理-springboot-中间件" aria-hidden="true">#</a> 2. 服务治理 SpringBoot 中间件</h3>
 <ul>
 <li>系统架构：SpringBoot Starter 组件开发</li>
 <li>核心技术：熔断、降级、限流、切量、白名单、人群控制</li>

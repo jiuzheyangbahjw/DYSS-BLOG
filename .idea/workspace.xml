@@ -6,6 +6,25 @@
   <component name="ChangeListManager">
     <list default="true" id="424e40a4-98f3-4516-97c7-021c3469f01f" name="Changes" comment="update blog4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev-ops/nginx/html/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/dev-ops/nginx/html/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev-ops/nginx/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dev-ops/nginx/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev-ops/nginx/html/md/dev-log/day01.html" beforeDir="false" afterPath="$PROJECT_DIR$/dev-ops/nginx/html/md/dev-log/day01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev-ops/nginx/html/md/dev-log/day02.html" beforeDir="false" afterPath="$PROJECT_DIR$/dev-ops/nginx/html/md/dev-log/day02.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev-ops/nginx/html/md/dev-log/day03.html" beforeDir="false" afterPath="$PROJECT_DIR$/dev-ops/nginx/html/md/dev-log/day03.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev-ops/nginx/html/md/dev-log/day04.html" beforeDir="false" afterPath="$PROJECT_DIR$/dev-ops/nginx/html/md/dev-log/day04.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev-ops/nginx/html/md/dev-log/day05.html" beforeDir="false" afterPath="$PROJECT_DIR$/dev-ops/nginx/html/md/dev-log/day05.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev-ops/nginx/html/md/dev-log/day06.html" beforeDir="false" afterPath="$PROJECT_DIR$/dev-ops/nginx/html/md/dev-log/day06.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev-ops/nginx/html/md/dev-log/day07~day08.html" beforeDir="false" afterPath="$PROJECT_DIR$/dev-ops/nginx/html/md/dev-log/day07~day08.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev-ops/nginx/html/md/dev-log/day09~day10.html" beforeDir="false" afterPath="$PROJECT_DIR$/dev-ops/nginx/html/md/dev-log/day09~day10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev-ops/nginx/html/md/dev-log/day11.html" beforeDir="false" afterPath="$PROJECT_DIR$/dev-ops/nginx/html/md/dev-log/day11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev-ops/nginx/html/md/dev-log/day12.html" beforeDir="false" afterPath="$PROJECT_DIR$/dev-ops/nginx/html/md/dev-log/day12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev-ops/nginx/html/md/dev-log/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dev-ops/nginx/html/md/dev-log/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev-ops/nginx/html/md/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dev-ops/nginx/html/md/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev-ops/nginx/html/md/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/dev-ops/nginx/html/md/resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev-ops/nginx/html/slides.html" beforeDir="false" afterPath="$PROJECT_DIR$/dev-ops/nginx/html/slides.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/.temp/pages/md/dev-log/day01.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/.temp/pages/md/dev-log/day01.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/.temp/pages/md/dev-log/day06.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/.temp/pages/md/dev-log/day06.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/md/dev-log/day06.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/md/dev-log/day06.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +48,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/xfg-project/business-behavior-monitor&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/blog-master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -40,7 +59,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.docs:build">
     <configuration name="docs:build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -51,9 +70,20 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="docs:clean-dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="docs:clean-dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="npm.docs:build" />
+        <item itemvalue="npm.docs:clean-dev" />
       </list>
     </recent_temporary>
   </component>
@@ -87,6 +117,8 @@
       <workItem from="1720830529722" duration="84000" />
       <workItem from="1720830637185" duration="424000" />
       <workItem from="1720831097419" duration="22000" />
+      <workItem from="1720834850753" duration="217000" />
+      <workItem from="1720835652830" duration="732000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1720770004917</created>
@@ -228,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1720830290611</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="update blog4">
+      <created>1720835051288</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1720835051288</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
