@@ -34,12 +34,12 @@ highlights:
 
       - title: 动态线程池技术
         icon: table-columns
-        details: 24年1月，以spring boot starter开发了动态线程池组件，解决了实际开发中线程池的配置问题。
+        details: 24年2月，以spring boot starter开发了动态线程池组件，解决了实际开发中线程池的配置问题。
         link: https://...
         
       - title: 业务监控系统组件
         icon: table-columns
-        details: 24年4月，为了更好监控项目中的业务流转和排查问题，开发了将业务可视化的组件，对全链路流程进行实时监控，防止问题的排查和积压的查找。
+        details: 24年5月，为了更好监控项目中的业务流转和排查问题，开发了将业务可视化的组件，对全链路流程进行实时监控，透视业务，监控日志的输出节点。
         link: https://...。
 
 copyright: false
