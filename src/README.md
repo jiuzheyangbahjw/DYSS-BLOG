@@ -22,22 +22,22 @@ highlights:
     bgImage: /assets/bg/6-light.svg
     bgImageDark: /assets/bg/6-dark.svg
     features:
-      - title: T旋风外卖 - 外卖平台
+      - title: T旋风外卖 🥡
         icon: comment-dots
-        details: 23年3月，以MVC架构实现外卖系统，实现管理端和客户端的分离。
+        details: 23年3月，以MVC架构实现外卖系统，使用SpringBoot、MINIO等技术实现管理端和客户端的分离，。
         link: https://...
 
-      - title: 数据掘金 - 抽奖平台
+      - title: 数据掘金抽奖 🎡
         icon: box-archive
-        details: 23年10月，以DDD领域驱动设计架构，开发了一个平台大营销抽奖平台。运用了全面的分布式技术栈。
+        details: 23年10月，以DDD思想落地抽奖的微服务，兼容性强猛猛高。该项目全面运用了分布式技术栈，以dev-ops方式部署并上线
         link: https://...
 
-      - title: 动态线程池技术
+      - title: 动态线程池技术 🛥️
         icon: table-columns
-        details: 24年2月，以spring boot starter开发了动态线程池组件，解决了实际开发中线程池的配置问题。
+        details: 24年2月，以spring boot starter开发了动态线程池组件，以Redis发布订阅采集数据，并以该管理台动态配置线程池参数。
         link: https://...
         
-      - title: 业务监控系统组件
+      - title: 业务监控系统组件 🎥
         icon: table-columns
         details: 24年5月，为了更好监控项目中的业务流转和排查问题，开发了将业务可视化的组件，对全链路流程进行实时监控，透视业务，监控日志的输出节点。
         link: https://...。
