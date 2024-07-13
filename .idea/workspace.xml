@@ -29,7 +29,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/blog-master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/xfg-project/business-behavior-monitor&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -81,6 +81,12 @@
       <workItem from="1720799267815" duration="16000" />
       <workItem from="1720799329651" duration="39000" />
       <workItem from="1720799510926" duration="1285000" />
+      <workItem from="1720830131406" duration="179000" />
+      <workItem from="1720830319779" duration="108000" />
+      <workItem from="1720830441778" duration="78000" />
+      <workItem from="1720830529722" duration="84000" />
+      <workItem from="1720830637185" duration="424000" />
+      <workItem from="1720831097419" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1720770004917</created>
@@ -215,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1720800221889</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="update blog4">
+      <created>1720830290611</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1720830290611</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
